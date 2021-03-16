@@ -1,6 +1,6 @@
 ﻿
 
-**HashValidator**
+# HashValidator
 
 HashValidator is a program written in python which validates if a file has been
 
