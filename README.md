@@ -25,10 +25,9 @@ In Windows and in Linux/Unix:</br>
 • Choose the file that you want to validate from the file explorer</br>
 ![2](https://user-images.githubusercontent.com/56977882/111290407-cd028e80-864e-11eb-807d-89e2f83ce86b.PNG)
 
-• Choose the hash type by entering the corresponding number from the</br>
+• Choose the hash type by entering the corresponding number from the menu</br>
 ![3](https://user-images.githubusercontent.com/56977882/111290433-d2f86f80-864e-11eb-9b33-d2af01c7c441.PNG)
 
-menu
 
 • Enter the hash of the file</br>
 ![4](https://user-images.githubusercontent.com/56977882/111290473-dd1a6e00-864e-11eb-83e2-b92a44105dd4.PNG)
