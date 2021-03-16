@@ -16,11 +16,10 @@ from [here](https://www.python.org/downloads/)
 
 • Download the program or clone the repository in your system
 
-• Execute the command “python [path of the program]”
+• Execute the command ```python python [path of the program] ```
 
-In Windows:
-
-and in Linux/Unix:
+In Windows and in Linux/Unix:
+![image](/Desktop/1.png)
 
 • Choose the file that you want to validate from the file explorer
 
