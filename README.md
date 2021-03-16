@@ -35,10 +35,10 @@ In Windows and in Linux/Unix:</br>
 • Then it will show the results:</br>
 
 
-* If the file is intact it will show:</br>
+- If the file is intact it will show:</br>
 ![5](https://user-images.githubusercontent.com/56977882/111290496-e3104f00-864e-11eb-9357-c28794cf3fa2.PNG)
 
-* Else if the file has been tampered:</br>
+- Else if the file has been tampered:</br>
 ![6](https://user-images.githubusercontent.com/56977882/111290548-ee637a80-864e-11eb-9470-ccdd42a7b9d7.PNG)
 
 
