@@ -19,7 +19,7 @@ from [here](https://www.python.org/downloads/)
 • Execute the command ```python python [path of the program] ```
 
 In Windows and in Linux/Unix:
-![image](/Desktop/1.png)
+![image](C:\Users\random\Desktop\1.png)
 
 • Choose the file that you want to validate from the file explorer
 
