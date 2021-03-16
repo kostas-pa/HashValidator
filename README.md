@@ -19,7 +19,7 @@ from [here](https://www.python.org/downloads/)
 
 • Execute the command ```python python [path of the program] ```
 
-In Windows and in Linux/Unix:
+In Windows and in Linux/Unix:</br>
 ![1](https://user-images.githubusercontent.com/56977882/111290057-6e3d1500-864e-11eb-85d8-48301fe4cdea.PNG)
 
 • Choose the file that you want to validate from the file explorer
