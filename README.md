@@ -13,7 +13,7 @@ Python 2 and Python 3. In order to use this program:
 
 • You must have Python installed in your system or you can download it
 
-from [here](https://www.python.org/downloads/)
+from https://www.python.org/downloads/
 
 • Download the program or clone the repository in your system
 
