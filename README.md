@@ -3,7 +3,7 @@
 
 # HashValidator
 
-HashValidator is a program written in python which validates if a file has been
+HashValidator is a python program which checks if a file has been
 
 tampered by comparing the hash of the file before and after the download. It
 
